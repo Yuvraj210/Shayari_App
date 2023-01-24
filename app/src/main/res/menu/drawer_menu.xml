@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <item android:title="Share"
+android:id="@+id/NShare"
+         android:icon="@drawable/share_24"/>
+     <item android:title="Rate"
+         android:id="@+id/NRate"
+         android:icon="@drawable/rate_24"/>
+
+     <item android:title="More"
+         android:id="@+id/NMore"
+         android:icon="@drawable/more_24"/>
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517496319725",
+    "project_id": "sayariapp-3bd30",
+    "storage_bucket": "sayariapp-3bd30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517496319725:android:49d8bbbefc5add2365e6e4",
+        "android_client_info": {
+          "package_name": "chat.social.shayariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517496319725-hfjmjf1fo4pj6ogo1133jqv8vgqk33kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.social.shayariapp",
+            "certificate_hash": "d837fdf90f381285f4693e59b383f2d1bc936f96"
+          }
+        },
+        {
+          "client_id": "517496319725-rbtp2b5eqdhu8r2pe3ii1ci50ge5ve8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMH9Q-Yqui1kn5_vW2qkoNH6Vp5YWJi7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517496319725-rbtp2b5eqdhu8r2pe3ii1ci50ge5ve8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
